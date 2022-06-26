@@ -204,6 +204,8 @@ Total Distance=30 Kilometers
 ![Screenshot from 2022-05-10 16-32-24](https://user-images.githubusercontent.com/75235759/167614454-05aa5cad-e07c-4d31-b656-7f47cabfaede.png)
 
 
+## SOLUTION JUSTIFICATION:
+The Algorithm searches all the nodes for the most eligible node by choosing with low path cost, and then it goes into the deep, to find the next eligible node to reach the desired destination.
+
 ## RESULT:
-
-
+Hence, Best-First-Search Algorithm was implemented for a route finding problem.
